@@ -1,0 +1,58 @@
+.section-header{
+    position: -webkit-sticky;
+    position: sticky;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 5;
+}
+.Header{
+    background-color: #000;
+    // height: 53px;
+}
+.Header_Wrapper{
+    padding: 15px 50px;
+    color: white;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    height: 2em;
+
+}
+.HorizontalList {
+    display: inline-flex;
+    list-style: none;
+    margin: -6px -8px;
+}
+.HorizontalList--spacingExtraLoose .HorizontalList__Item {
+    margin-right: 17px;
+    margin-left: 17px;
+}
+.HorizontalList__Item {
+    display: inline-block;
+    margin: 6px 8px 6px 8px;
+}
+#nav-section{
+    background-color: black !important;
+}
+.navbar-brand{
+    color: white;
+}
+.navbar-brand :hover{
+    color: gold;
+}
+a :hover{
+    color: gray !important;
+}
+a :visited{
+    color: gray !important;
+}
+.fa-icon{
+    width: 20px;
+}

@@ -1,0 +1,30 @@
+.Layout {
+  display: grid;
+
+  
+  grid-template-areas:
+    "announcement"
+    "header"
+    "main"
+    "footer";
+  & > announcement {
+      grid-area: announcement;
+      height: 14px;
+    }
+  & > header {
+    grid-area: header;
+  }
+  & > main {
+    grid-area: main;
+    padding-bottom: 6%;
+  }
+  & > footer {
+    grid-area: footer;
+  }
+}
+
+@media (max-width: 768px) {
+  // .Layout {
+  //   grid-template-rows: 6em auto 50vh;
+  // }
+}

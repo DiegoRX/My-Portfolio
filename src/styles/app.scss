@@ -1,0 +1,41 @@
+@import '../container/Layout/_Layout.scss';
+@import '../container/Header/Header.scss';
+@import '../container/Announcement/Announcement.scss';
+
+body{
+    margin: 0;
+/*     background-color: brown; */
+font-family: "DIN Next",sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #1c1b1b;
+    background: #f1f1f1;
+    line-height: 1.65;
+}
+
+.visual-banner-main {
+    background-image: url("https://www.educamas.com.co/wp-content/uploads/2021/07/diego-web.jpg"); }
+
+.black-overlay-5:before, .dark-overlay:before {
+   background: rgba(0, 0, 0, .15); 
+}
+.quotation-block {
+    background-image: url('https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+}
+.link-box a {
+   background: transparent !important;
+   color: white;
+}
+.link-box h3 {
+    color: white;
+ }
+ .fa-icon-big{
+     width: 50px;
+ }
+@media only screen and (min-width: 1032px){
+.visual-inner {
+    padding: 3.75rem 0;
+    height: 57.38rem !important;
+    max-height: 57.38rem !important;
+}
+}
