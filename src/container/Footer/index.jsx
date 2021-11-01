@@ -17,8 +17,8 @@ const Footer = () => {
                 <div class="col-lg-4">
                     <h4>Follow me on:</h4>
                     <ul class="social-network round-icon">
-                        <li><a href="https://github.com/DiegoRX"> <img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' className='fa-icon'/></a></li>
-                        <li><a href="https://linkedin.com/in/DiegoRX"> <img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' className='fa-icon'/></a></li>
+                        <li><a href="https://github.com/DiegoRX"> <img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' className='fa-icon up'/></a></li>
+                        <li><a href="https://linkedin.com/in/DiegoRX"> <img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' className='fa-icon up'/></a></li>
                     </ul>
                 </div>
             </div>

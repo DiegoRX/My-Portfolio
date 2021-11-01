@@ -51,7 +51,7 @@ const Header = () => {
                             <button type="button" className="navbar-toggler navbar-toggler-left" data-toggle="collapse" data-target="#mega-menu">
                                 <span className="navbar-toggler-icon"></span>
                             </button>
-                            <a className="navbar-brand mr-auto m-sm-auto" href="index.html"> Diego Romero </a>
+                            <a className="navbar-brand mr-auto m-sm-auto" href="/"> Diego Romero </a>
                             <div className="collapse navbar-collapse flex-row-reverse" id="mega-menu">
                                 <ul className="nav navbar-nav">
                                     <li className="dropdown" data-animation="fadeIn">

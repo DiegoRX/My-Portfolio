@@ -173,7 +173,7 @@ const Home = () => {
                                     <div className="link-box">
                                             <h3>Prográmate Trainer</h3>
                                             <p>My experience as a full stack trainer at a Colombian Bootcamp</p>
-                                            <a href="#">
+                                            <a href="http://programate.educamas.com.co/">
                                                 <span className="icon-link"><span className="sr-only">&amp;</span></span>
                                             </a>
                                         </div>
@@ -194,7 +194,7 @@ const Home = () => {
                                 <div className="col-md-6">
                                     <div className="bottom-space-small-only">
                                         <p>I started my career at technology industry as a digital market consultant, understanding the industry and the business models that may apply in it. I realized that I needed to understand the software that we use today in our world to make a real impact. That's when I jumped into programming.</p>
-                                        <p>As a Web Developer I started my carreer deloping frontend applications, then I learned the bases of the backend tecnologies. At that point I started teaching programming to my peers, and that's when I started working at <a href="http://programate.educamas.com.co/">Prográmate</a> Bootcamp as a trainer in Full Stack technologies.</p>
+                                        <p>As a Web Developer I started my carreer developing frontend applications, then I learned the bases of the backend tecnologies. At that point I started teaching programming to my peers, and that's when I started working at <a href="http://programate.educamas.com.co/">Prográmate</a> Bootcamp as a trainer in Full Stack technologies.</p>
                                         <p>I have been developing DAPPs for the last year and I really enjoy the blockchain ecosystem.</p>
                                         {/* <div className="btn-container top-m-space">
                                             <a href="#" className="btn btn-black has-radius-small">VIEW PROJECTS</a>
