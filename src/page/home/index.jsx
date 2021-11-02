@@ -29,7 +29,7 @@ const Home = () => {
                                             </div>
                                             <h4 className="content-title"><a href="#">Frontend Stack</a></h4>
                                             <div className="des">
-                                                <p>Experience and knowledge in the two of the most important fronted frameworks in the industry</p>
+                                                <p>Experience and knowledge in the two of the most important frontend frameworks in the industry</p>
                                             </div>
 
                                         </div>
